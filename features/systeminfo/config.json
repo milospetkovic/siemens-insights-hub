@@ -1,0 +1,28 @@
+{
+    "systemInfo": {
+      "display": true,
+      "properties": [
+        "platform",
+        "distro",
+        "release",
+        "codename",
+        "kernel",
+        "uptime"
+      ]
+    },
+    "processInfo": {
+      "display": true,
+      "charts": [
+        "cpu",
+        "temperature",
+        "memory"
+      ]
+    },
+    "connectionInfo": {
+      "display": true
+    },
+    "networkInfo": {
+      "display": true
+    }
+  }
+  

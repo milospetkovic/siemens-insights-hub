@@ -1,0 +1,4 @@
+.env
+id_rsa.pub.pem
+node_modules/*
+package-lock.json
